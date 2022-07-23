@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently exploring Machine Learning  .....
+- 🌱 I’m currently exploring Data Analytics  .....
 - 📫 You can reach out to me through email: ajitks20@iitk.ac.in
 
 <br>
